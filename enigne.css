@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color: white;
+    padding-left: 2%;
+    background-color: rgb(20, 20, 46);
+  }
+  
+  .nav{
+   
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10%;
+    
+    background-size: cover;
+    background-position: initial;
+  }
+ .merci{
+  padding-left: 5%;
+  font-size: 50%;
+
+ }
+ .mer{
+    display: flex;
+ justify-content: space-between;
+ font-size: 25px;
+ }
+ a{
+  color: white;
+ }
+ #accueil{
+  color:violet
+ }
+
+ .nigne{
+  margin: 10%;
+ }
+ .igo{
+  background-image: url(/images/back_footer.png);
+  padding-left: 5%;
+}
+.ola{
+  display: flex;
+  padding-top: 10%;
+  
+}
+.fid{
+  position: absolute;
+  padding-top: 10%;
+  padding-left: 6%;
+}
+.pages{
+  padding-left: 15%;
+}
+
+.retrouve{
+  padding-left: 10%;
+}
+.mami{
+  padding-left: 30%;
+  padding-top: 0%;
+}

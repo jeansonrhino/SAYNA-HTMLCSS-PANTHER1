@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 10px;
+ }
+ 
+ .nav{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10%;
+  background-color: 
+  rgb(58, 58, 204);
+  background-size: cover;
+  background-position: initial;
+}
+ .merci{
+  padding-left: 5%;
+  font-size: 50%;
+ }
+ .mer{
+    display: flex;
+ justify-content: space-between;
+ font-size: 25px;
+ }
+ a{
+  color: white;
+ }
+ #accueil{
+  color:violet
+ }
+
+ .space{
+  background-image: url(/images/back_footer.png);
+  background-size: cover;
+  background-position: left;
+    display: flex;
+    padding-top: 5%;
+ }
+ .text1{
+  padding-left: 5%;
+ }
+ .git{
+  padding-left: 5%;
+  border-image-width: 100%;
+ }
+ .difi{
+    background-image: url(/images/arrière);
+    display: flex;
+ }
+ .t{
+    background-color: rgb(75, 75, 238);
+    width: 400px;
+    border-radius: 0px 0px 0px;
+    padding: 2%;
+  
+ }
+ .no{
+    background-color: rgb(75, 75, 238);
+    width: 400px;
+    padding: 2%;
+ }
+ .vive{
+   
+ }
+ .sayna{
+    display: flex;
+    padding-top: 3%;
+    background-image: url(/images/arrière_plan.png);
+ }
+ .joli{
+    padding-left: 15%;
+ }
+ .binom{
+  background-color: white;
+  margin: 10%;
+  padding: 10%;
+  margin-bottom: 5%;
+  border: radius 100px;;
+
+ }
+ .acteur{
+  
+ }
+ h4{
+  margin: 10%;
+  padding-top: 5%;
+ }
+ 
+ .mast{
+   background-image: url(/images/Pantherhome7.png);
+  
+   padding-left:30%;
+   width: 700%;
+ }
+ .formulaire{
+   background-image: url(/images/Pantherhome7.png);
+ }
+ .inputs{
+   padding-left: 30%;
+ }
+ .igo{
+   background-image: url(/images/back_footer.png);
+   padding-left: 5%;
+ }
+ .ola{
+   display: flex;
+   padding-top: 10%;
+   
+ }
+ .fid{
+   position: absolute;
+   padding-top: 10%;
+   padding-left: 6%;
+ }
+ .pages{
+   padding-left: 15%;
+ }
+ 
+ .retrouve{
+   padding-left: 10%;
+ }
+ .mami{
+   padding-left: 30%;
+   padding-top: 0%;
+ }

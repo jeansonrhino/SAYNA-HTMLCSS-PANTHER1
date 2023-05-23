@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 1%;
+    padding: 0%;
+}
+    
+   
+ .nav{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10%;
+    background-color: 
+    rgb(10, 10, 29);
+    background-size: cover;
+    background-position: initial;
+  }
+   .merci{
+    padding-left: 5%;
+    font-size: 50%;
+   }
+   .mer{
+      display: flex;
+   justify-content: space-between;
+   font-size: 25px;
+   padding-top: 5%;
+   }
+   a{
+    color: white;
+   }
+   #accueil{
+    color:violet
+   }
+  
+   
+ 
+  .nini{
+  display: flex;
+ 
+  }
+
+  . .wakanda{
+   padding-left: 10%
+  }
+  .oo{position: absolute;
+    margin-left: 4%;
+    padding-top: 20%;
+  
+  }
+  .dificile{
+   padding-left: 2%;
+  }
+  .double{
+    display: flex;
+    background-color: rgb(23, 23, 58)
+  }
+  .lien{
+    background-color: blue;
+    margin: 10%;
+    padding: 10%;
+  }
+  .mali{
+    margin: 5%;
+    padding-left: 5%;
+  }
+   
+  .mast{
+   background-image:url(/images/Pantherhome7.png);
+   padding-left:30%;
+   width: 700%;
+  }
+
+  .igo{
+   background-image: url(/images/back_footer.png);
+  }
+  
+  .ola{
+   display: flex;
+   padding-top: 10%;
+   padding-left: 15%;
+  }
+  .fid{
+   position: absolute;
+   padding-top: 130px;
+   padding-left: 60px;
+  }
+  .pages{
+    padding-left: 10%;
+  }
+  .retrouve{
+   padding-left: 20%;
+  }
+  .mami{
+    padding-left: 40%;
+    padding-bottom: 100px;
+  }
+  
